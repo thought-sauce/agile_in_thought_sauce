@@ -1,0 +1,10 @@
+Test and Automation
+===============
+
+* Automated Test
+* Automated Deployment
+* Automate Data Fix
+* Automate Test of Data Fix
+* User Acceptance Test
+* Test Coverage
+* Automate Admin work

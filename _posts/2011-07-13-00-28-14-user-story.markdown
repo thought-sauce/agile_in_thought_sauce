@@ -1,0 +1,8 @@
+User Story
+==========
+
+As a &lt;**product manager**&gt;, 
+
+I want to &lt;**see the revenue and lost of previous month**&gt;, 
+
+&#91;so that &lt;**I can evaluate the product performance**&gt;&#93;

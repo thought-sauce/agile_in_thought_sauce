@@ -1,0 +1,7 @@
+Deal with changes
+=================
+
+* Planning
+* Release Frequent
+* Quality assurance
+* Communication (both users & team members)

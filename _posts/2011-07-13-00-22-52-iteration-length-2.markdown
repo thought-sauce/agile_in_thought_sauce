@@ -1,0 +1,9 @@
+Iteration-Length
+========
+
+
+<p class="center">More Uncertainty -> More Frequent</p>
+
+<p class="center">Re-prioritize frequently</p>
+
+<p class="center">Re-estimate the team velocity</p>

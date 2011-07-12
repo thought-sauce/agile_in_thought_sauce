@@ -1,0 +1,6 @@
+Team
+====
+
+<p class="center">1 project manager</p>
+
+<p class="center">3 developers</p>

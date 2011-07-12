@@ -1,0 +1,8 @@
+Client
+======
+
+<p class="center">dozen of application users and managers</p>
+
+<p class="center">1 product owner</p>
+
+<p class="center">1 user representative</p>

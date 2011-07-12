@@ -1,0 +1,5 @@
+Planning
+========
+
+* Iteration Planning Meeting
+* Release Planning Meeting

@@ -1,0 +1,8 @@
+Other Coding Practice
+=====================
+
+* Pair Programming
+* Stand Up
+* Code Review
+* Commit Often
+* Branching
