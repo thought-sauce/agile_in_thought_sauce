@@ -1,0 +1,12 @@
+Thanks
+======
+
+
+Ruby On Rails development and Agile Coaching:
+
+<a href="http://thought-sauce.com">http://thought-sauce.com</a>
+
+
+Slides available at:
+
+<a href="http://thought-sauce.github.com/agile_in_thought_sauce">http://thought-sauce.github.com/agile_in_thought_sauce</a>
